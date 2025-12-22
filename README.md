@@ -17,15 +17,15 @@ Back-end software developer at Liferay and Artificial Intelligence enthusiast.
   - Hibernate;
   - JUnit
 - Rust;
-- MySQL5+;
-- Python3;.
-
-**Additional skills**
+- MySQL;
+- Python3;
 - Linux;
 - Git;
-- Docker;
-- BigQuery (Google Cloud Platform).
+- Docker
+
+**Additional skills**
 - HTML5;
-- SASS;
+- CSS/SASS;
 - Typescript;
 - ReactJS v17/v18;
+- BigQuery (Google Cloud Platform).
