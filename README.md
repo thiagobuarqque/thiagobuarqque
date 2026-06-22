@@ -49,9 +49,9 @@
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| [**RustMate**](https://github.com/thiagobuarque-liferay/RustMate_Rust-Chess-Engine) | A chess engine written from the ground up. | Rust |
-| [**NeuraRust**](https://github.com/thiagobuarque-liferay/NeuraRust) | Neural networks implemented from scratch. | Rust |
-| [**TensoRust**](https://github.com/thiagobuarque-liferay/TensoRust) | Tensor operations and numerical computing experiments. | Rust |
-| [**Analytics**](https://github.com/thiagobuarque-liferay/Analytics--a-user-web-events-processor) | A back-end service that processes user web events. | Java · Spring |
+| [**RustMate**](https://github.com/thiagobuarqque/RustMate_Rust-Chess-Engine) | A chess engine written from the ground up. | Rust |
+| [**NeuraRust**](https://github.com/thiagobuarqque/NeuraRust) | Neural networks implemented from scratch. | Rust |
+| [**TensoRust**](https://github.com/thiagobuarqque/TensoRust) | Tensor operations and numerical computing experiments. | Rust |
+| [**Analytics**](https://github.com/thiagobuarqque/Analytics--a-user-web-events-processor) | A back-end service that processes user web events. | Java · Spring |
 
 ---
