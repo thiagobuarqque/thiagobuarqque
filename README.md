@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiago Buarque 👋</h1>
 
 <p align="center">
-  Back-end software developer <a href="https://github.com/liferay">@Liferay</a> &nbsp;·&nbsp; Recife, Brazil 🇧🇷
+  Senior Back-end software developer <a href="https://github.com/liferay">@Liferay</a> &nbsp;·&nbsp; Recife, Brazil 🇧🇷
 </p>
 
 ---
